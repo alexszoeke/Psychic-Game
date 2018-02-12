@@ -1,0 +1,28 @@
+body {
+    background-image: url("../images/psychic-ball.jpg");
+/*Picture source, free to use /*https://pixabay.com/p-1158166/?no_redirect */
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgba(128, 0, 128, 0.9);
+    font-size: 20px;
+}
+
+#game {
+    font-weight: bold;
+}
+
+.bg-dark {
+    background-color: #000000!important;
+}
+
+.navbar-light .navbar-brand {
+    color: rgba(128, 0, 128, 0.9);
+}
+
+.container {
+    margin: 40px auto;
+}
+
+img {
+    height: 500px;
+}
