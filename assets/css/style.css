@@ -16,7 +16,11 @@ body {
 }
 
 .navbar-light .navbar-brand {
-    color: rgba(128, 0, 128, 0.9);
+    color: rgba(128, 0, 128, 0.902);
+}
+
+.navbar-light .navbar-brand:hover {
+    color: rgba(128, 0, 128, 0.902);
 }
 
 .container {
